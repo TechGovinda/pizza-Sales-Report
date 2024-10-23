@@ -5,3 +5,6 @@ See full Dashboard here :- (<iframe title="Pizza Sales" width="600" height="373.
 
 ![front Page of Protifilo Dashboard](Front-page-of-Dashboard.png)
 
+
+# Top/Bottom Pizza Sales
+![Top-Button-pizza-sales](Top-Button-pizza-sales.png)
